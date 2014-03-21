@@ -4,3 +4,40 @@
 *.jar
 *.war
 *.ear
+*.class
+
+# Builds #
+target/
+build/
+dist/
+nbbuild/
+nbdist/
+log/
+
+# IDE #
+.settings/
+.classpath
+.project
+.loadpath
+build.xml
+nbproject/
+.idea/
+*.iml
+*.iws
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# External tool builders #
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations" #
+*.launch
